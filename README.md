@@ -22,3 +22,7 @@ An action-packed game where players must defend their territory against waves of
 
 ![Last Stand](https://github.com/MagifulKoala/LastStand)
 
+# Extra links
+
+##[my itch.io](https://magifulkoala.itch.io/)
+
