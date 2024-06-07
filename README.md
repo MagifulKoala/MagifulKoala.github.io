@@ -8,14 +8,14 @@ A project that aims to bring an intense and immersive conflict simulation with m
 [Absolute Conflict github link](https://github.com/MagifulKoala/Absoulte-conflict/)
 
 
-## [VR Proyecto De Grado](https://github.com/MagifulKoala/VRProyectoDeGrado)
+## [VR The Hands of Midas](https://github.com/MagifulKoala/VRProyectoDeGrado)
 A Virtual Reality project developed for academic purposes. This repository showcases a comprehensive VR environment.
 
 ### Features
 - Immersive VR experiences
 - Interactive 3D models
 
-[VR Proyecto De Grado github link](https://github.com/MagifulKoala/VRProyectoDeGrado/)
+[VR The Hands of Midas github link](https://github.com/MagifulKoala/VRProyectoDeGrado/)
 
 ## [Last Stand](https://github.com/MagifulKoala/LastStand)
 An action-packed game where players must defend their territory against waves of enemies. This project focuses on providing an intense and strategic gameplay experience. The project is still in development
