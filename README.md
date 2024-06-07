@@ -1,6 +1,6 @@
 # Pablo Dorado
 
-# My GitHub Projects
+# Game Development Projects
 
 ## [Absolute Conflict](https://github.com/MagifulKoala/Absoulte-conflict)
 A project that aims to bring an intense and immersive conflict simulation with mechanics similar to Total War. This repository contains all the necessary files and documentation to get started with Absolute Conflict. The project is still in development
