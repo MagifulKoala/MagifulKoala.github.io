@@ -1,5 +1,7 @@
 # Pablo Dorado
 
+Hi ! My name is Pablo and I am a computer scientist with great interest in videogame development. Here you'll find some of my work from videogame development to AI and data science. 
+
 # Game Development Projects
 
 ## [Absolute Conflict](https://github.com/MagifulKoala/Absoulte-conflict)
