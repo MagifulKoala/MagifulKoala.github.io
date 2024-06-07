@@ -16,7 +16,7 @@ A Virtual Reality project developed for academic purposes. This repository showc
 ### Features
 - Immersive VR experiences
 - Interactive 3D models
-- 
+
 ![](https://github.com/MagifulKoala/MagifulKoala.github.io/blob/main/images/Thumbnail.png?raw=true)
 
 [VR The Hands of Midas github link](https://github.com/MagifulKoala/VRProyectoDeGrado/)
