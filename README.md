@@ -51,8 +51,8 @@ An action-packed game where players must defend their territory against waves of
   ```python
   def example_function():
       print("This is a code block inside the collapsible section!")
-
-</detials>  ```
+```
+</detials>  
 
 
 # Project Documentation
