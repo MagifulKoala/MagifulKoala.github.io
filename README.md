@@ -54,3 +54,17 @@ An action-packed game where players must defend their territory against waves of
   ```
 </detials>
 
+
+# Project Documentation
+
+## Table of Contents
+- [Introduction](#introduction)
+- [Getting Started](#getting-started)
+
+
+## Introduction
+This project is...
+
+## Getting Started
+To begin using this project...
+
