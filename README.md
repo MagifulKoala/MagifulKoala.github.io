@@ -44,29 +44,44 @@ the rotation matrix allowed me to define the forward facing vector of the camera
 
 
 ## [VR The Hands of Midas](https://github.com/MagifulKoala/VRProyectoDeGrado)
-A Virtual Reality project developed for academic purposes. This repository showcases a comprehensive VR environment.
-
-### Features
-- Immersive VR experiences
-- Interactive 3D models
+A Virtual Reality project developed for academic purposes. This repository showcases a comprehensive VR environment. The game was designed and implemented with the main objective of exploring new techniques
+or mechanics that add value to virtual reality in video games. In this sense, the developed game was titled "The Hands of Midas". The main mechanic of the game was centered in the transmutation of object materials. The player has the ability to acquire the properties of a material by
+touching it with their left hand and can convert any object they touch with their
+right hand into that material. In this way, the game is a single-player puzzle in
+which the player must transmute the materials of various objects within their environment to solve puzzles and progress through levels. The game was developed
+in Unity in one-week sprints throughout a span of 4 months.
 
 ![](https://github.com/MagifulKoala/MagifulKoala.github.io/blob/main/images/Thumbnail.png?raw=true)
 
 [VR The Hands of Midas github link](https://github.com/MagifulKoala/VRProyectoDeGrado/)
 
+<details>
+  <summary>VR The Hands of Midas - More Information</summary>
+
+  #### Goals
+  #### Challenges
+</details>
+
 ## [Last Stand](https://github.com/MagifulKoala/LastStand)
-An action-packed game where players must defend their territory against waves of enemies. This project focuses on providing an intense and strategic gameplay experience. The project is still in development
+An action-packed game where players must defend themselves against a horde of undead enemies. The game was developed for the 2024 GameDev.TV game jam. The project is still in development
 
 ![](https://github.com/MagifulKoala/MagifulKoala.github.io/blob/main/images/newThumbnail.png?raw=true)
 
 [Last Stand github link](https://github.com/MagifulKoala/LastStand/)
 
+<details>
+  <summary>Last Stand - More Information</summary>
+
+  #### Goals
+  #### Challenges
+</details>
+
 # Extra links
 ### [my itch.io](https://magifulkoala.itch.io/)
 
 # AI Projects
--  [DeepLearning](#Deep-Learning)
--  [DataScience](#Datas-cience)
+-  [DeepLearning](#deep-Learning)
+-  [DataScience](#Data-science)
 
 ## Deep Learning
 ## Data Science
