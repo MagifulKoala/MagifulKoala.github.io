@@ -69,6 +69,6 @@ This project is...
 ## Getting Started
 To begin using this project...
 
-##something ELSE
+## something ELSE
 this is something else
 
