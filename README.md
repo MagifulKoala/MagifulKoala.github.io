@@ -1,15 +1,46 @@
 # Pablo Dorado
 
-Hi ! My name is Pablo and I am a computer scientist with great interest in videogame development. Here you'll find some of my work from videogame development to AI and data science. 
+Hi ! My name is Pablo and I am a computer scientist with great interest in videogame development and AI. Here you'll find some of my work from videogame development to AI and data science. 
+
+- [Game Development](#game-development-projects)
+- [Artificial Intelligence](#ai-projects)
+- [Art](#art)
 
 # Game Development Projects
 
 ## [Absolute Conflict](https://github.com/MagifulKoala/Absoulte-conflict)
-A project that aims to bring an intense and immersive conflict simulation with mechanics similar to Total War. This repository contains all the necessary files and documentation to get started with Absolute Conflict. The project is still in development
+A project that aims to bring an intense and immersive conflict simulation with mechanics similar to Total War. The project is still in development
 
 ![](https://github.com/MagifulKoala/MagifulKoala.github.io/blob/main/images/thumbnail.png?raw=true)
 
 [Absolute Conflict github link](https://github.com/MagifulKoala/Absoulte-conflict/)
+
+<details>
+  <summary> Absolute Conflict - More information</summary>
+  
+  #### Goals
+  - UI
+
+Players must be able to assemble an army and effectly interact with the UI to control it and battle agaisnt an opponent.
+  - Accurate Unit Deployment
+
+Depending on unit size and spawn restrictions the unit must be able to spawn with no errors in the field of battle. On spawn, units take a rectangular formation with rows and columns of soldiers
+  - Unit Point Movement
+
+Once deployed units must be able to move as a whole towards its destination point
+  - Unit Combat
+
+Rudimentary combat between units. Soldiers within each unit must be able to enter combar with opposing units. As soldiers die new soldiers must take their place until there are no soldiers left
+
+#### Challenges
+Even though Unity has options to directly manipulate the local transformation of an object, I decided to work with global transformation as a challenge. This decition put to test my linear algebra skills.
+For example, in order to move the camera effectively through the combat zone I had to keep in mind where the local 'z' axis of the camera was so that I could apply the appropiate translation vector. In order
+to do this I used a rotation matrix to determine the local forward vector. To define the rotation Matrix matrices corresponding to the x,y and z rotation were multiplied. Since matrix multiplication is non-commutative I was puzzled to which combination to use. I had to go into the Unity documentation and find out their definition for euler angles. Once I had that I was able to correctly create the rotation matrix. As I mentioned before,
+the rotation matrix allowed me to define the forward facing vector of the camera. Once I had this vector not only was I able to move the camera effectly buy raycast from the camera in that direction could be cast in order to controll the different units in the game.
+
+</details>
+
+
 
 
 ## [VR The Hands of Midas](https://github.com/MagifulKoala/VRProyectoDeGrado)
@@ -31,44 +62,15 @@ An action-packed game where players must defend their territory against waves of
 [Last Stand github link](https://github.com/MagifulKoala/LastStand/)
 
 # Extra links
+### [my itch.io](https://magifulkoala.itch.io/)
 
-##[my itch.io](https://magifulkoala.itch.io/)
+# AI Projects
+-  [DeepLearning](#Deep-Learning)
+-  [DataScience](#Datas-cience)
 
+## Deep Learning
+## Data Science
 
-<details>
-  <summary>Click to expand!</summary>
-  
-  ## This is a header
-  
-  Here is some content inside the collapsible section.
-  
-  - List item 1
-  - List item 2
-  - List item 3
-  
-  You can add more content here, including **formatted text**, code snippets, and more.
-  
-  ```python
-  def example_function():
-      print("This is a code block inside the collapsible section!")
-```
-</details>  
+# Art
 
-
-# Project Documentation
-
-## Table of Contents
-- [Introduction](#introduction)
-- [Getting Started](#getting-started)
-- [test](#something-else)
-
-
-## Introduction
-This project is...
-
-## Getting Started
-To begin using this project...
-
-## something ELSE
-this is something else
 
