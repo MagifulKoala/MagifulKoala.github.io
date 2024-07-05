@@ -34,3 +34,23 @@ An action-packed game where players must defend their territory against waves of
 
 ##[my itch.io](https://magifulkoala.itch.io/)
 
+
+<details>
+  <summary>Click to expand!</summary>
+  
+  ## This is a header
+  
+  Here is some content inside the collapsible section.
+  
+  - List item 1
+  - List item 2
+  - List item 3
+  
+  You can add more content here, including **formatted text**, code snippets, and more.
+  
+  ```python
+  def example_function():
+      print("This is a code block inside the collapsible section!")
+  ```
+</detials>
+
