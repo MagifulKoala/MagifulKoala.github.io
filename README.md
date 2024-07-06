@@ -41,6 +41,25 @@ the rotation matrix allowed me to define the forward facing vector of the camera
 </details>
 
 
+<details>
+  <summary>Click to see more details</summary>
+  <ul>
+    <li>Item 1
+      <ul>
+        <li>Sub-item 1.1</li>
+        <li>Sub-item 1.2</li>
+      </ul>
+    </li>
+    <li>Item 2
+      <ul>
+        <li>Sub-item 2.1</li>
+        <li>Sub-item 2.2</li>
+      </ul>
+    </li>
+  </ul>
+</details>
+
+
 
 
 ## [VR The Hands of Midas](https://github.com/MagifulKoala/VRProyectoDeGrado)
