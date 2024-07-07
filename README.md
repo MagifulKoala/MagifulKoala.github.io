@@ -15,52 +15,31 @@ A project that aims to bring an intense and immersive conflict simulation with m
 
 [Absolute Conflict github link](https://github.com/MagifulKoala/Absoulte-conflict/)
 
+</details>
+
 <details>
-  <summary> Absolute Conflict - More information</summary>
+  <summary> Absolute Conflict - More information </summary>
+
+  <h4>Goals</h4>
+
+  <ul>
+    <li> <strong>UI</strong> </li>
+    <p> Players must be able to assemble an army and effectly interact with the UI to control it and battle agaisnt an opponent. </p>
+    <li> <strong>Accurate Unit Deployment</strong> </li>
+    <p> Depending on unit size and spawn restrictions the unit must be able to spawn with no errors in the field of battle. On spawn, units take a rectangular formation with rows and columns of soldiers </p>
+    <li> <strong> Unit Point Movement </strong></li>
+    <p> Once deployed units must be able to move as a whole towards its destination point </p>
+    <li> <strong>Unit Combat</strong> </li>
+    <p> Rudimentary combat between units. Soldiers within each unit must be able to enter combar with opposing units. As soldiers die new soldiers must take their place until there are no soldiers left </p>
+  </ul>
   
-  #### Goals
-  - UI
-
-Players must be able to assemble an army and effectly interact with the UI to control it and battle agaisnt an opponent.
-  - Accurate Unit Deployment
-
-Depending on unit size and spawn restrictions the unit must be able to spawn with no errors in the field of battle. On spawn, units take a rectangular formation with rows and columns of soldiers
-  - Unit Point Movement
-
-Once deployed units must be able to move as a whole towards its destination point
-  - Unit Combat
-
-Rudimentary combat between units. Soldiers within each unit must be able to enter combar with opposing units. As soldiers die new soldiers must take their place until there are no soldiers left
-
-#### Challenges
-Even though Unity has options to directly manipulate the local transformation of an object, I decided to work with global transformation as a challenge. This decition put to test my linear algebra skills.
+  <h4> <strong> Challenges </strong> </h4>
+    <p>Even though Unity has options to directly manipulate the local transformation of an object, I decided to work with global transformation as a challenge. This decition put to test my linear algebra skills.
 For example, in order to move the camera effectively through the combat zone I had to keep in mind where the local 'z' axis of the camera was so that I could apply the appropiate translation vector. In order
 to do this I used a rotation matrix to determine the local forward vector. To define the rotation Matrix matrices corresponding to the x,y and z rotation were multiplied. Since matrix multiplication is non-commutative I was puzzled to which combination to use. I had to go into the Unity documentation and find out their definition for euler angles. Once I had that I was able to correctly create the rotation matrix. As I mentioned before,
-the rotation matrix allowed me to define the forward facing vector of the camera. Once I had this vector not only was I able to move the camera effectly buy raycast from the camera in that direction could be cast in order to controll the different units in the game.
-
+the rotation matrix allowed me to define the forward facing vector of the camera. Once I had this vector not only was I able to move the camera effectly buy raycast from the camera in that direction could be cast in order to controll the different units in the game. </p>
+  
 </details>
-
-
-<details>
-  <summary>Click to see more details</summary>
-  <ul>
-    <li>Item 1
-      <h5> this is a title </h5>
-      <ul>
-        <li>Sub-item 1.1</li>
-        <li>Sub-item 1.2</li>
-      </ul>
-    </li>
-    <li>Item 2
-      <ul>
-        <li>Sub-item 2.1</li>
-        <li>Sub-item 2.2</li>
-      </ul>
-    </li>
-  </ul>
-</details>
-
-
 
 
 ## [VR The Hands of Midas](https://github.com/MagifulKoala/VRProyectoDeGrado)
@@ -77,9 +56,24 @@ in Unity in one-week sprints throughout a span of 4 months.
 
 <details>
   <summary>VR The Hands of Midas - More Information</summary>
+  <h4>Goals</h4>
 
-  #### Goals
-  #### Challenges
+  <ul>
+    <li> <strong>Some Goal</strong> </li>
+    <p> some description </p>
+    <li> <strong>Some Goal 2</strong> </li>
+    <p> some description 2</p>
+  </ul>
+  
+  <h4>Challenges</h4>
+  
+  <ul>
+    <li> <strong>Some challenge</strong> </li>
+    <p> some description </p>
+    <li> <strong>Some challenge 2</strong> </li>
+    <p> some description 2</p>
+  </ul>
+  
 </details>
 
 ## [Last Stand](https://github.com/MagifulKoala/LastStand)
@@ -88,12 +82,27 @@ An action-packed game where players must defend themselves against a horde of un
 ![](https://github.com/MagifulKoala/MagifulKoala.github.io/blob/main/images/newThumbnail.png?raw=true)
 
 [Last Stand github link](https://github.com/MagifulKoala/LastStand/)
+[play now]([https://github.com/MagifulKoala/LastStand/](https://magifulkoala.itch.io/the-last-stand))
 
 <details>
   <summary>Last Stand - More Information</summary>
+  <h4>Goals</h4>
 
-  #### Goals
-  #### Challenges
+  <ul>
+    <li> <strong>Some Goal</strong> </li>
+    <p> some description </p>
+    <li> <strong>Some Goal 2</strong> </li>
+    <p> some description 2</p>
+  </ul>
+  
+  <h4>Challenges</h4>
+  
+  <ul>
+    <li> <strong>Some challenge</strong> </li>
+    <p> some description </p>
+    <li> <strong>Some challenge 2</strong> </li>
+    <p> some description 2</p>
+  </ul>
 </details>
 
 # Extra links
