@@ -82,7 +82,7 @@ An action-packed game where players must defend themselves against a horde of un
 ![](https://github.com/MagifulKoala/MagifulKoala.github.io/blob/main/images/newThumbnail.png?raw=true)
 
 [Last Stand github link](https://github.com/MagifulKoala/LastStand/)
-[play now]([https://github.com/MagifulKoala/LastStand/](https://magifulkoala.itch.io/the-last-stand))
+[play now](https://magifulkoala.itch.io/the-last-stand)
 
 <details>
   <summary>Last Stand - More Information</summary>
