@@ -15,7 +15,6 @@ A project that aims to bring an intense and immersive conflict simulation with m
 
 [Absolute Conflict github link](https://github.com/MagifulKoala/Absoulte-conflict/)
 
-</details>
 
 <details>
   <summary> Absolute Conflict - More information </summary>
@@ -75,6 +74,7 @@ in Unity in one-week sprints throughout a span of 4 months.
   </ul>
   
 </details>
+
 
 ## [Last Stand](https://github.com/MagifulKoala/LastStand)
 An action-packed game where players must defend themselves against a horde of undead enemies. The game was developed for the 2024 GameDev.TV game jam. The project is still in development
