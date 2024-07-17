@@ -50,6 +50,8 @@ which the player must transmute the materials of various objects within their en
 in Unity in one-week sprints throughout a span of 4 months.
 
 ![](https://github.com/MagifulKoala/MagifulKoala.github.io/blob/main/images/Thumbnail.png?raw=true)
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=kjjan2EAv74&ab_channel=pdh" frameborder="0" allowfullscreen></iframe>
+
 
 [VR The Hands of Midas github link](https://github.com/MagifulKoala/VRProyectoDeGrado/)
 
@@ -93,19 +95,19 @@ An action-packed game where players must defend themselves against a horde of un
   <h4>Goals</h4>
 
   <ul>
-    <li> <strong>Some Goal</strong> </li>
-    <p> some description </p>
-    <li> <strong>Some Goal 2</strong> </li>
-    <p> some description 2</p>
+    <li> <strong>functional game loop</strong> </li>
+    <p>Turn in a game at the end of the jam with a fully functional game loop. In this case it meant being able to start the game, fight and survive waves of enemies while getting points from defeating them and eventually being overwhelmed and being defeated. From this point the player could see his final score and restart the game if they wished. Additionally have a functioning UI for the player to interact with the main menu, pause the game and quit.</p>
+    <li> <strong>art & animations</strong> </li>
+    <p>Create and successfully implement art and animations for all assets in the game. In this sense I created the background, enemies and props. The player and enemies both had functioning animation controllers in order to give a better gameplay experience. </p>
+    <li><strong>Enemy AI</strong></li>
+    <p>Implement functioning AI capable of following the player regardless of where they were located on the map, inflicting damage on them and being killed given points that add to the players’ final score in the end. </p>
   </ul>
   
   <h4>Challenges</h4>
   
   <ul>
-    <li> <strong>Some challenge</strong> </li>
-    <p> some description </p>
-    <li> <strong>Some challenge 2</strong> </li>
-    <p> some description 2</p>
+    <li> <strong>solo game jam</strong> </li>
+    <p>As mentioned in the description for the project, it was done for a game jam. Given the tight time constraints and the fact I was the only person working on the project I had to manage my time and resources to produce the best possible game I could make. I divided my schedule into pre production, production and postproduction. The preproduction took care of the planning and during the production phase I did most of the programming. A few days before submission I had finished most of the programming side of things. I only had to debug and optimize some aspects of the game. However I hadn't progressed in the art and animation side of things making the game functional but not really good to look at. This was a major challenge. In a couple of days I had to draw and animate all the assets for the game and debug what I could in the little time I had left. At the end I managed to turn into a functional state. However, I believe with better time management and foresight on how long the art and animation was going to take I could have gotten way better results.</p>
   </ul>
 </details>
 
