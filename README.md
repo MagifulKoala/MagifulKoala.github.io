@@ -50,7 +50,7 @@ which the player must transmute the materials of various objects within their en
 in Unity in one-week sprints throughout a span of 4 months.
 
 ![](https://github.com/MagifulKoala/MagifulKoala.github.io/blob/main/images/Thumbnail.png?raw=true)
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=kjjan2EAv74&ab_channel=pdh" frameborder="0" allowfullscreen></iframe>
+[![Watch the trailer](https://img.shields.io/badge/Watch%20Trailer-red?style=flat&logo=YouTube&logoColor=white&labelColor=grey)]([https://youtu.be/VIDEO_ID](https://www.youtube.com/watch?v=kjjan2EAv74&ab_channel=pdh))
 
 
 [VR The Hands of Midas github link](https://github.com/MagifulKoala/VRProyectoDeGrado/)
