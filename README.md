@@ -58,19 +58,22 @@ in Unity in one-week sprints throughout a span of 4 months.
   <h4>Goals</h4>
 
   <ul>
-    <li> <strong>Some Goal</strong> </li>
-    <p> some description </p>
-    <li> <strong>Some Goal 2</strong> </li>
-    <p> some description 2</p>
-  </ul>
+    <li> <strong>Functional material transmutation mechanics</strong> </li>
+    <p> Successfully implemented material transmutation mechanics allowing the player to interact with a wide variety of materials and transmute their properties between them. Each material has its own properties and can effectively interact with other materials and, in some cases, with its environment.</p>
+    <li> <strong>Functional level management and progression</strong> </li>
+    <p>Successfully implemented various levels. Each level has its own level control that successfully handles dialogue with npc, progression, triggering events and puzzle mechanics, among others.</p>
+    <li><strong>Functional VR rig</strong></li>
+    <p>Functional VR rig that the player can control easily and that minimizes factors such as motion sickness. The rig implements player movement controls such as teleportation and joystick movement. Haptic feedback is available. 3d physics based functional hands models are implemented.</p>
+  <li><strong>Interactable assets and levels</strong></li>
+  <p>Implemented various  assets and props for level and puzzle construction. Most props can interact with other props and the environment and hold material transmutation mechanics. Added custom shaders to props the player can interact with in order to make them more visible during gameplay. 
+</p>
+ </ul>
   
   <h4>Challenges</h4>
   
   <ul>
-    <li> <strong>Some challenge</strong> </li>
-    <p> some description </p>
-    <li> <strong>Some challenge 2</strong> </li>
-    <p> some description 2</p>
+    <li> <strong>VR motion sickness and playtesting</strong> </li>
+    <p> Among the many challenges faced during the development of this project there are 3 major ones worth a mention. The first one was a time constraint linked with a lack of experience with VR development. This was my first project involving VR in game development and the project was expected to be fully functional at the end of a 16 week period. This meant I had to manage my time effectively to learn how VR was implemented while maintaining steady progress on the development of the game. Additionally, at the time of development, I had limited access to a VR headset, this meant I could only play test any builds at the end of the week. Finally, motion sickness is a very common problem with VR games. I had to manage available resources as much as possible to minimize the impact of motion sickness in gameplay. For example, I implemented fully functional, physics based, 3d hands on the player rig making the experience significantly smoother. </p>
   </ul>
   
 </details>
