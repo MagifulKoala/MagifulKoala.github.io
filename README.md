@@ -2,9 +2,37 @@
 
 Hi ! My name is Pablo and I am a computer scientist with great interest in videogame development and AI. Here you'll find some of my work from videogame development to AI and data science. 
 
-- [Game Development](#game-development-projects)
 - [Artificial Intelligence](#ai-projects)
+- [Game Development](#game-development-projects)
 - [Art](#art)
+
+# AI Projects
+
+-  [DeepLearning](#deep-Learning)
+-  [DataScience](#Data-science)
+
+## Data Science
+
+### [House Prices - Advanced Regression Techniques](https://www.kaggle.com/doradopablo)
+The House Prices - Advanced Regression Techniques Kaggle competition, as the name suggests, is centered around predicting the final price of a set of homes given 79 exploratory variables describing (almost) every aspect of residential homes in Ames, Iowa. The Ames Housing dataset by Dean De Cock was used for this project. In this sense the project followed the traditional machine learning process and was composed of data preprocessing, modeling and evaluations phases. You can find more information about the project below. 
+
+![]()
+[![Project](https://img.shields.io/badge/Kaggle-Project-blue.svg)]()
+
+
+<details>
+  <summary>House Prices - More Information</summary>
+
+  <h4>Description</h4>
+    <ul>
+      <p> I just went chat gpt do everything and click submit </p>
+    </ul>
+  <h4>Challenges</h4>
+    <ul>
+      <p>it was super easy hehehe</p>
+    </ul>
+</details>
+
 
 # Game Development Projects
 
@@ -113,13 +141,6 @@ An action-packed game where players must defend themselves against a horde of un
 
 # Extra links
 ### [my itch.io](https://magifulkoala.itch.io/)
-
-# AI Projects
--  [DeepLearning](#deep-Learning)
--  [DataScience](#Data-science)
-
-## Deep Learning
-## Data Science
 
 # Art
 
