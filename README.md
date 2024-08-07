@@ -16,7 +16,8 @@ Hi ! My name is Pablo and I am a computer scientist with great interest in video
 ### [House Prices - Advanced Regression Techniques](https://www.kaggle.com/doradopablo)
 The House Prices - Advanced Regression Techniques Kaggle competition, as the name suggests, is centered around predicting the final price of a set of homes given 79 exploratory variables describing (almost) every aspect of residential homes in Ames, Iowa. The Ames Housing dataset by Dean De Cock was used for this project. In this sense the project followed the traditional machine learning process and was composed of data preprocessing, modeling and evaluations phases. You can find more information about the project below. 
 
-![]()
+![](https://raw.githubusercontent.com/MagifulKoala/MagifulKoala.github.io/main/images/housePricesHeader.png)
+
 [![Project](https://img.shields.io/badge/Kaggle-Project-blue.svg)]()
 
 
@@ -25,11 +26,11 @@ The House Prices - Advanced Regression Techniques Kaggle competition, as the nam
 
   <h4>Description</h4>
     <ul>
-      <p> I just went chat gpt do everything and click submit </p>
+      <p>As mentioned previously, the project centered around the prediction of house prices given 79 features. In this sense, regression techniques were applied in order to do this. The project was divided into three parts. The first being the data preprocessing phase, which you can find more information on in the challenges section of this project. Second, the modeling part and finally the evaluation. For data preprocessing the data was cleaned and split into training and test sets. For modeling I decided to apply random forest regression. This model improves robustness and accuracy by averaging multiple trees, reducing overfitting in contrast to decision tree regression. Additionally the model doesn’t require feature scaling and generally speaking works well on both linear and nonlinear problems. Finally, from experience, houses with similar features tend to have roughly similar prices given they are in close locations. In this case all houses are from Ames, Iowa. Therefore I considered random forest to be a good fit. In order to find the best parameters for the model grid search was applied. Finally during model evaluation the regressor got an r2 score of 0.84 and a rsme of 33551 given that the average house price was of 180921 with a standard deviation of 79442. </p>
     </ul>
   <h4>Challenges</h4>
     <ul>
-      <p>it was super easy hehehe</p>
+      <p>The most challenging and time consuming part of the project was data cleaning. The modeling and evaluation parts of the project were straightforward once the data was clean. Before the data could be cleaned I had to make myself familiar with the dataset itself. This meant going through most of the columns and understanding what they represented. Next I found null values and had to determine the cause of said null value in order to know how to handle them. Fortunately, for this project most null values were caused because said feature was absent in the property. For example, a house without a basement or fence would have all corresponding columns for that feature as null. In this way, I replaced all null values corresponding to string as NA and numerical values for -1. Of course, in order to implement most of the regression models string columns had to be one hot encoded. After processing null values, separating, processing and rejoining data frames and encoding strings I was able to model, evaluate and predict. Given the fact that I was working with a rather large number of features (79), this process took quite a while to complete. By the end of the process I ended up with roughly 330 features.</p>
     </ul>
 </details>
 
