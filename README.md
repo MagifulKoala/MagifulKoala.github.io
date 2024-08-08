@@ -13,12 +13,12 @@ Hi ! My name is Pablo and I am a computer scientist with great interest in video
 
 ## Data Science
 
-### [House Prices - Advanced Regression Techniques](https://www.kaggle.com/doradopablo)
+### [House Prices - Advanced Regression Techniques](https://www.kaggle.com/code/doradopablo/house-prices-random-forest-and-xgboost)
 The House Prices - Advanced Regression Techniques Kaggle competition, as the name suggests, is centered around predicting the final price of a set of homes given 79 exploratory variables describing (almost) every aspect of residential homes in Ames, Iowa. The Ames Housing dataset by Dean De Cock was used for this project. In this sense the project followed the traditional machine learning process and was composed of data preprocessing, modeling and evaluations phases. You can find more information about the project below. 
 
 ![](https://raw.githubusercontent.com/MagifulKoala/MagifulKoala.github.io/main/images/housePricesHeader.png)
 
-[![Project](https://img.shields.io/badge/Kaggle-Project-blue.svg)]()
+[![Project](https://img.shields.io/badge/Kaggle-Project-blue.svg)](https://www.kaggle.com/code/doradopablo/house-prices-random-forest-and-xgboost)
 
 
 <details>
