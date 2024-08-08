@@ -1,6 +1,6 @@
 # Pablo Dorado
 
-Hi ! My name is Pablo and I am a computer scientist with great interest in videogame development and AI. Here you'll find some of my work from videogame development to AI and data science. 
+Hi ! My name is Pablo and I am a computer scientist with great interest in videogame development and AI. Here you'll find some of my work. 
 
 - [Artificial Intelligence](#ai-projects)
 - [Game Development](#game-development-projects)
