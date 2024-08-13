@@ -4,7 +4,6 @@ Hi ! My name is Pablo and I am a computer scientist with great interest in video
 
 - [Artificial Intelligence](#ai-projects)
 - [Game Development](#game-development-projects)
-- [Art](#art)
 
 # AI Projects
 
@@ -142,7 +141,3 @@ An action-packed game where players must defend themselves against a horde of un
 
 # Extra links
 ### [my itch.io](https://magifulkoala.itch.io/)
-
-# Art
-
-
